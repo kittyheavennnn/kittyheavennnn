@@ -4,3 +4,6 @@ body{
 img{
     width: 50%
 }
+headerdisplay: flex;
+justify-content: space-around;
+align-content: flex-end;
