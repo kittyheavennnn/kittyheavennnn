@@ -1,9 +1,13 @@
-body{
-   background-color: lightpink;
+body {
+    background-color: lightpink;
 }
-img{
+
+img {
     width: 50%
 }
-headerdisplay: flex;
-justify-content: space-around;
-align-content: flex-end;
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-content: flex-end;
+}
