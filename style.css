@@ -14,3 +14,6 @@ header {
 .ahellokittycerta{
     width: 20%;
 }
+.intro{
+    display: flex;
+}
