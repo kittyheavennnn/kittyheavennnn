@@ -17,7 +17,7 @@ header {
 .intro{
     display: flex;
     margin: 32px;
-    background-image: linear-gradient(#C23188, #FFFFFF,#C23188);
+    background-image: linear-gradient(#C23188, #FFFFFF);
     padding: 30px;
     border: 3px solid white;
     align-items: center;
